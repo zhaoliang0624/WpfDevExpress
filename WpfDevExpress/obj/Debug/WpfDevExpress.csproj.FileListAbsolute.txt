@@ -1,0 +1,1 @@
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\bin\Debug\WpfDevExpress.exe.config
