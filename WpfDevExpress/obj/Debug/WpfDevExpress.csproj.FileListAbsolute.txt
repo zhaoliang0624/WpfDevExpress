@@ -1,1 +1,13 @@
 G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\bin\Debug\WpfDevExpress.exe.config
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\bin\Debug\WpfDevExpress.exe
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\bin\Debug\WpfDevExpress.pdb
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\MainWindow.baml
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\MainWindow.g.cs
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\App.g.cs
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\WpfDevExpress_MarkupCompile.cache
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\WpfDevExpress.g.resources
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\WpfDevExpress.Properties.Resources.resources
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\WpfDevExpress.csproj.GenerateResource.Cache
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\WpfDevExpress.exe
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\WpfDevExpress.pdb
+G:\CodeSpace\GitHub\WpfDevExpress\WpfDevExpress\obj\Debug\WpfDevExpress.csprojResolveAssemblyReference.cache
